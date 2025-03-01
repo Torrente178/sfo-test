@@ -1,6 +1,7 @@
 title: "SFO Editor Database"
 remote_theme: just-the-docs/just-the-docs
 
+color_scheme: dark
 logo: "/assets/image/logo_db.png"
 
 # Aux links for the upper right navigation
