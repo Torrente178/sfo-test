@@ -11,3 +11,12 @@ permalink: Config/SFO00001/
 | Text | Description | Download |
 |------|----------|:-------------:|
 | Name | Description | [00000001.zip](00000001.zip){: .btn .btn-purple } |
+
+| Text |
+|:------:|
+| {: .note-title }
+> My note title
+>
+> A paragraph with a custom title callout
+ |
+
