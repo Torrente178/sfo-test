@@ -10,9 +10,39 @@ aux_links:
     - "https://github.com/thezodiacox0/sfo-editor-database"
 
 callouts:
+  caution:
+    title: Caution
+    color: red
+
+callouts:
   warning:
     title: Warning
-    color: red
+    color: yellow
+
+callouts:
+      tip:
+    title: TIP
+    color: green
+
+callouts:
+     info:
+    title: Info
+    color: blue
+
+callouts:
+important:
+    title: Important
+    color: purple
+
+callouts:
+      ns1:
+    title: NS1
+    color: grey-dk
+
+callouts:
+      ns2:
+    title: NS2
+    color: grey-lt
 
 # Footer content
 # appears at the bottom of every page's main content
