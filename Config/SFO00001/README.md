@@ -11,7 +11,7 @@ permalink: Config/SFO00001/
 {: .warning }
 > My note title
 
-{: .ns2 }
+{: .note-ns2 }
 > My Confiaaaff
 >
 > A paragraph with a custom title callout
