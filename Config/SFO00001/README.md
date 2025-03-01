@@ -6,17 +6,16 @@ permalink: Config/SFO00001/
 ---
 # Example Pack
 
-## Config Pack - SFO00001
-
-| Text | Description | Download |
-|------|----------|:-------------:|
-| Name | Description | [00000001.zip](00000001.zip){: .btn .btn-purple } |
-
-| Text |
-|:------:|
-| {: .note-title }
+{: .note-title } 
 > My note title
 >
 > A paragraph with a custom title callout
- |
+
+## Config Pack - SFO00001
+
+| Text | Description | Download | Text |
+|------|----------|:-------------:|:------:|
+| Name | Description | [00000001.zip](00000001.zip){: .btn .btn-purple } | 
+ 
+
 
