@@ -6,6 +6,8 @@ permalink: Config/SFO00001/
 ---
 # Example Pack
 
+## Test info
+
 {: .warning }
 > My note title
 
