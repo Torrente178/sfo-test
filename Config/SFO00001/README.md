@@ -6,7 +6,7 @@ permalink: Config/SFO00001/
 ---
 # Example Pack
 
-{: .ns1 }
+{: .tip }
 > My Config
 >
 > A paragraph with a custom title callout
