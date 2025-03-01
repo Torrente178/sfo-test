@@ -28,3 +28,4 @@ the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
 
 [app_license]: https://github.com/thezodiacox0/sfo-editor-database/blob/master/LICENSE
+[img_license]: https://img.shields.io/github/license/bucanero/apollo-saves.svg?maxAge=2592000
