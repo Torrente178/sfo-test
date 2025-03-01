@@ -9,7 +9,7 @@ permalink: Config/SFO00001/
 {: .info }
 > My note title
 
-{: .ns2 }
+{: .tip }
 > My Config
 >
 > A paragraph with a custom title callout
