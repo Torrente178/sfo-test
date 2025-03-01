@@ -8,10 +8,10 @@ permalink: Config/SFO00001/
 
 ## Test info
 
-{: .warning }
+{: .ns2 }
 > My note title
 
-{: .note-ns2 }
+{: .important }
 > My Confiaaaff
 >
 > A paragraph with a custom title callout
