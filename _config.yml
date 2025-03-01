@@ -20,27 +20,27 @@ callouts:
     color: yellow
 
 callouts:
-      tip:
+  tip:
     title: TIP
     color: green
 
 callouts:
-     info:
+  info:
     title: Info
     color: blue
 
 callouts:
-important:
+  important:
     title: Important
     color: purple
 
 callouts:
-      ns1:
+  ns1:
     title: NS1
     color: grey-dk
 
 callouts:
-      ns2:
+  ns2:
     title: NS2
     color: grey-lt
 
