@@ -2,7 +2,7 @@
 layout: default
 title: "Example Pack"
 parent: Auto Config
-permalink: Config/CUSA40325/
+permalink: Config/SFO00001/
 ---
 # Example Pack
 
