@@ -9,8 +9,8 @@ permalink: Config/SFO00001/
 {: .info }
 > My note title
 
-{: .bayo }
-> My Config
+{: .ns1 }
+> My Confiaaa
 >
 > A paragraph with a custom title callout
 
