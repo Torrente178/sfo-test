@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Auto Config
+title: SFO Configurations
 permalink: Config/
 has_children: true
 has_toc: false
 ---
-# Auto Configs List
+# SFO Configurations List
 
 | Config Name | ID |
 |------|:---:|
