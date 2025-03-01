@@ -10,7 +10,10 @@ permalink: Config/SFO00001/
   
 ## Test info
 
-{: .ns2 }
+{: .note }
+> My note title
+
+{: .tip }
 > My note title
 
 ## Config Pack - SFO00001
