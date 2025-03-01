@@ -13,8 +13,8 @@ permalink: Config/SFO00001/
 
 ## Config Pack - SFO00001
 
-| Text | Description | Download | Text |
-|------|----------|:-------------:|:------:|
+| Text | Description | Download |
+|------|----------|:-------------:|
 | Name | Description | [00000001.zip](00000001.zip){: .btn .btn-purple } | 
  
 
