@@ -6,7 +6,7 @@ permalink: Config/SFO00001/
 ---
 # Example Pack
 
-{: .note-title } 
+{: .note-title }
 > My note title
 >
 > A paragraph with a custom title callout
