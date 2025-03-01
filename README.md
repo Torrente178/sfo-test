@@ -1,7 +1,7 @@
 # SFO Save Editor Database
 
 [![License][img_license]][app_license]
-![PS4 Titles](https://img.shields.io/github/directory-file-count/bucanero/apollo-saves/PS4?label=PS4%20Games&type=dir)
+![Test](https://img.shields.io/github/directory-file-count/bucanero/apollo-saves/PS4?label=PS4%20Games&type=dir)
 
 ## Introduction
 
