@@ -6,7 +6,7 @@ permalink: Config/SFO00001/
 ---
 # Example Pack
 
-{: .warning }
+{: .note-warning }
 > My Config
 >
 > A paragraph with a custom title callout
