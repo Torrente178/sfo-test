@@ -1,13 +1,13 @@
 ---
 layout: default
 title: "Example Pack"
-parent: Auto Config
+parent: SFO Configurations
 permalink: Config/SFO00001/
 ---
 # Example Pack
 
-## Config Pack - CUSA40325
+## Config Pack - SFO00001
 
-| Text | Filename | Description |
+| Text | Description | Download |
 |------|----------|-------------|
-| Name | [00000001.zip](00000001.zip){: .btn .btn-purple } | Description |
+| Name | Description | [00000001.zip](00000001.zip){: .btn .btn-purple } |
