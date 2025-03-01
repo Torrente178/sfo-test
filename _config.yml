@@ -13,11 +13,24 @@ callouts:
   note:
     title: "Nota"
     color: "blue"
-
-callouts:
-    important:
+  important:
     title: "Importante"
     color: "purple"
+  warning:
+    title: "Advertencia"
+    color: "yellow"
+  caution:
+    title: "Precaución"
+    color: "red"
+  tip:
+    title: "Consejo"
+    color: "green"
+  ns1:
+    title: "Gris"
+    color: "grey-dk"
+  ns2:
+    title: "Blanco"
+    color: "grey-lt"
     
 # Footer content
 # appears at the bottom of every page's main content
