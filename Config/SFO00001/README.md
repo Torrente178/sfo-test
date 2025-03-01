@@ -13,7 +13,7 @@ permalink: Config/SFO00001/
 {: .note }
 > My note title
 
-{: .tip }
+{: .important }
 > My note title
 
 ## Config Pack - SFO00001
