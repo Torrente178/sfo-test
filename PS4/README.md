@@ -1,7 +1,7 @@
 ---
 layout: default
-title: PS4 Saves
-permalink: PS4/
+title: Auto Configurations
+permalink: Config/
 has_children: true
 has_toc: false
 ---
