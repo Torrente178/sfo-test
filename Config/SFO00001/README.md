@@ -6,15 +6,12 @@ permalink: Config/SFO00001/
 ---
 # Example Pack
 
+- aaaa
+  
 ## Test info
 
 {: .ns2 }
 > My note title
-
-{: .important }
-> My Confiaaaff
->
-> A paragraph with a custom title callout
 
 ## Config Pack - SFO00001
 
