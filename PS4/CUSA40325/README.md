@@ -10,4 +10,4 @@ permalink: PS4/CUSA40325/
 
 | Icon | Filename | Description |
 |------|----------|-------------|
-| ![EA Sports FC 24](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-red } | Descripcion de la Example |
+| ![EA Sports FC 24](icon0.png) | [00000001.zip](00000001.zip){: .btn .btn-purple } | Descripcion de la Example |
