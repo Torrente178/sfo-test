@@ -7,7 +7,7 @@ permalink: Config/SFO00001/
 # Example Pack
 
 {: .info }
-A paragraph
+> My note title
 
 {: .ns2 }
 > My Config
