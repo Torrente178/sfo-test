@@ -6,7 +6,7 @@ permalink: Config/SFO00001/
 ---
 # Example Pack
 
-{: .caution }
+{: .warning }
 > My note title
 
 {: .ns1 }
