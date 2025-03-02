@@ -9,9 +9,6 @@ permalink: Config/SFO00001/
 {: .notes }
 > - This is a Example Pack
 
-{: .red }
-> - Na Cosas
-
 ## 🛠️ Config Pack - SFO00001
 
 | ConfigName | Author | MainTitle | SubTitle | Version | JSON File |
