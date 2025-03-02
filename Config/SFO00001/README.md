@@ -36,6 +36,8 @@ permalink: Config/SFO00001/
 | ConfigName | Author | MainTitle | SubTitle | Version | JSON File |
 |------------|--------|-----------|----------|---------|:-------------:|
 | SFO Example | AuthorOriginal | ★SaveData MainTitle| ★SaveData SubTitle| 1.0.0 | [🛠️ SFO Example](example.json){: .btn .btn-purple } | 
+| SFO Example | AuthorOriginal | ★SaveData MainTitle| ★SaveData SubTitle| 1.0.0 | [🛠️ SFO Example](example.json){: .btn .btn-purple } | 
+| SFO Example | AuthorOriginal | ★SaveData MainTitle| ★SaveData SubTitle| 1.0.0 | [🛠️ SFO Example](example.json){: .btn .btn-purple } | 
  
 
 
