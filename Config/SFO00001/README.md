@@ -1,10 +1,10 @@
----
+  ---
 layout: default
 title: "Example Pack"
 parent: SFO Configurations
 permalink: Config/SFO00001/
 ---
-# Example Pack
+# 🛠️ Example Pack
 
 - aaaa
   
@@ -35,7 +35,7 @@ permalink: Config/SFO00001/
 
 | Text | Description | Download |
 |------|----------|:-------------:|
-| Name | Description | [prueba 1](00000001.zip){: .btn .btn-purple } | 
+| Name | Description | [🛠️ prueba 1](00000001.zip){: .btn .btn-purple } | 
  
 
 
