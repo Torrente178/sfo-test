@@ -27,7 +27,7 @@ callouts:
   notes:
     title: "📝 Notes"
     color: "gray-dk" 
-  gray:
+  white:
     title: "🛠️ Text"
     color: "gray-lt" 
     
