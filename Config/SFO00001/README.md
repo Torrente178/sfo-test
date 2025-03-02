@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Example Pack"
-parent: SFO Configurations
+parent: 🛠️ SFO Configurations
 permalink: Config/SFO00001/
 ---
 # 🛠️ Example Pack
