@@ -9,26 +9,26 @@ aux_links:
     - "https://github.com/thezodiacox0/sfo-editor-database"
 
 callouts:
-  blue:
-    title: "🛠️ Info"
-    color: "blue"
-  purple:
-    title: "🛠️ Important"
-    color: "purple"
-  yellow:
-    title: "🛠️ Warning"
-    color: "yellow"
-  red:
-    title: "🛠️ Caution"
-    color: "red"
-  green:
-    title: "🛠️ TIP"
-    color: "green"
   notes:
-    title: "📝 Notes"
+    title: "Nota"
+    color: "blue"
+  important:
+    title: "Importante"
+    color: "purple"
+  warning:
+    title: "Advertencia"
+    color: "red"
+  caution:
+    title: "Precaución"
+    color: "yellow"
+  tip:
+    title: "Consejo"
+    color: "green"
+  ns1:
+    title: "NS1"
     color: "grey-dk"
-  white:
-    title: "🛠️ Text"
+  ns2:
+    title: "NS2"
     color: "grey-lt"
     
 # Footer content
