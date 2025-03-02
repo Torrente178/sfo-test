@@ -8,11 +8,24 @@ permalink: Config/SFO00001/
 
 {: .red }
 > - Texto de pruebaaaaaaa
-> - Texto de Prueba1
 
 {: .white }
 > - Texto de prueba
-> - Texto de Prueba1
+
+{: .blue }
+> - Texto de pruebaaaaaaa
+
+{: .green }
+> - Texto de prueba
+
+{: .notes }
+> - Texto de pruebaaaaaaa
+
+{: .purple }
+> - Texto de prueba
+
+{: .yellow }
+> - Texto de pruebaaaaaaa
 
 ## 🛠️ Config Pack - SFO00001
 
