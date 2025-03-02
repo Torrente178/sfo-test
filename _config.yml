@@ -25,7 +25,7 @@ callouts:
     title: "🛠️ Consejo"
     color: "green"
   example:
-    title: "🛠️ Ejemplo"
+    title: "📝 Notes"
     color: "grey-dk"
   white:
     title: "🛠️ Blanco"
