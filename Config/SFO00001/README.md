@@ -35,7 +35,7 @@ permalink: Config/SFO00001/
 
 | Text | Description | Download |
 |------|----------|:-------------:|
-| Name | Description | [00000001.zip](00000001.zip){: .btn .btn-purple } | 
+| Name | Description | [prueba 1](00000001.zip){: .btn .btn-purple } | 
  
 
 
