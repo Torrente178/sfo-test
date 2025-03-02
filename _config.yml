@@ -26,7 +26,10 @@ callouts:
     color: "green"
   notes:
     title: "📝 Notes"
-    color: "gray-dk"
+    color: "grey-dk"
+  white:
+    title: "🛠️ Text"
+    color: "grey-lt"
     
 # Footer content
 # appears at the bottom of every page's main content
