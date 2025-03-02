@@ -31,11 +31,11 @@ permalink: Config/SFO00001/
 {: .important }
 > Texto de prueba
 
-## Config Pack - SFO00001
+## 🛠️ Config Pack - SFO00001
 
-| ⚙️ Text | ⚙️ Description | ⬇️ Download |
-|------|----------|:-------------:|
-| ⚙️ Name | ⚙️ Description | [🛠️ prueba 1](00000001.zip){: .btn .btn-purple } | 
+| ConfigName | Author | MainTitle | SubTitle | Version | ⬇️ JSON File |
+|------------|--------|-----------|----------|---------|:-------------:|
+| ⚙️ SFO Example | ⚙️ TheZodiacoX | ⚙️ ★SaveData MainTitle| ⚙️ ★SaveData SubTitle| ⚙️ 1.0.0 | [🛠️ prueba 1](00000001.zip){: .btn .btn-purple } | 
  
 
 
