@@ -1,7 +1,6 @@
 title: "SFO Editor Database"
 remote_theme: just-the-docs/just-the-docs
 
-color_scheme: light
 logo: "/assets/image/logo_db.png"
 
 # Aux links for the upper right navigation
@@ -11,7 +10,7 @@ aux_links:
 
 callouts:
   note:
-    title: "Nota"
+    title: "Info"
     color: "blue"
   important:
     title: "Importante"
@@ -25,10 +24,10 @@ callouts:
   tip:
     title: "Consejo"
     color: "green"
-  ns1:
-    title: "Gris"
+  example:
+    title: "Ejemplo"
     color: "grey-dk"
-  ns2:
+  white:
     title: "Blanco"
     color: "grey-lt"
     
