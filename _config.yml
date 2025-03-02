@@ -10,25 +10,25 @@ aux_links:
 
 callouts:
   note:
-    title: "Info"
+    title: "🛠️ Info"
     color: "blue"
   important:
-    title: "Importante"
+    title: "🛠️ Importante"
     color: "purple"
   warning:
     title: "Advertencia"
     color: "yellow"
   caution:
-    title: "Precaución"
+    title: "🛠️ Precaución"
     color: "red"
   tip:
-    title: "Consejo"
+    title: "🛠️ Consejo"
     color: "green"
   example:
-    title: "Ejemplo"
+    title: "🛠️ Ejemplo"
     color: "grey-dk"
   white:
-    title: "Blanco"
+    title: "🛠️ Blanco"
     color: "grey-lt"
     
 # Footer content
