@@ -10,7 +10,8 @@ permalink: Config/SFO00001/
 > Texto de prueba
 
 {: .caution }
-> Texto de prueba
+> - Texto de prueba
+> - Texto de Prueba1
 
 ## 🛠️ Config Pack - SFO00001
 
