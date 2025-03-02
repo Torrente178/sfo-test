@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SFO Configurations
+title: 🛠️ SFO Configurations
 permalink: Config/
 has_children: true
 has_toc: false
@@ -9,4 +9,4 @@ has_toc: false
 
 | Config Name | ID |
 |------|:---:|
-| [Example Pack](SFO00001/) | SFO00001 |
+| [🛠️ Example Pack](SFO00001/) | SFO00001 |
