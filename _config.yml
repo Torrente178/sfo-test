@@ -13,22 +13,22 @@ callouts:
     title: "🛠️ Info"
     color: "blue"
   important:
-    title: "🛠️ Importante"
+    title: "🛠️ Important"
     color: "purple"
   warning:
-    title: "🛠️ Advertencia"
+    title: "🛠️ Warning"
     color: "yellow"
   caution:
-    title: "🛠️ Precaución"
+    title: "🛠️ Caution"
     color: "red"
   tip:
-    title: "🛠️ Consejo"
+    title: "🛠️ TIP"
     color: "green"
   example:
     title: "📝 Notes"
     color: "grey-dk"
   white:
-    title: "🛠️ Blanco"
+    title: "🛠️ Text"
     color: "grey-lt"
     
 # Footer content
