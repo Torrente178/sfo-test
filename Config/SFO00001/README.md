@@ -6,26 +6,11 @@ permalink: Config/SFO00001/
 ---
 # 🛠️ Example Pack
 
-{: .red }
-> - Texto de pruebaaaaaaa
-
-{: .white }
-> - Texto de pruebaAA
-
-{: .blue }
-> - Texto de pruebaaaaaaa
-
-{: .green }
-> - Texto de prueba
-
 {: .notes }
-> - Texto de pruebaaaaaaa
+> - This is a Example Pack
 
-{: .purple }
-> - Texto de prueba
-
-{: .yellow }
-> - Texto de pruebaaaaaaa
+{: .red }
+> - Na Cosas
 
 ## 🛠️ Config Pack - SFO00001
 
