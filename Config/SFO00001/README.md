@@ -4,7 +4,8 @@ title: "Example Pack"
 parent: SFO Configurations
 permalink: Config/SFO00001/
 ---
-# Example Pack
+
+# 🛠️ Example Pack
 
 - aaaa
   
