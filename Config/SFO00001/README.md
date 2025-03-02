@@ -6,7 +6,7 @@ permalink: Config/SFO00001/
 ---
 # 🛠️ Example Pack
 
-{: .example }
+{: .notes }
 > Texto de prueba
 
 {: .caution }
