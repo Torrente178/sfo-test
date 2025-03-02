@@ -11,10 +11,25 @@ permalink: Config/SFO00001/
 ## Test info
 
 {: .note }
-> My note title
+> Texto de prueba
 
-{: .ns1 }
-> My note title
+{: .example }
+> Texto de prueba
+
+{: .tip }
+> Texto de prueba
+
+{: .caution }
+> Texto de prueba
+
+{: .warning }
+> Texto de prueba
+
+{: .white }
+> Texto de prueba
+
+{: .important }
+> Texto de prueba
 
 ## Config Pack - SFO00001
 
