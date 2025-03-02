@@ -1,7 +1,7 @@
 # SFO Save Editor Database
 
 [![License][img_license]][app_license]
-![Config Pack List](https://img.shields.io/github/directory-file-count/torrente178/sfo-test/Config?label=Config%20Pack%20List&type=dir&color=red&style=flat)
+![Config Pack List](https://img.shields.io/github/directory-file-count/torrente178/sfo-test/Config?label=Config%20Pack%20List&type=dir&color=red&style=flat-square)
 
 ## Introduction
 
@@ -28,4 +28,4 @@ the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
 
 [app_license]: https://github.com/torrente178/sfo-test/blob/master/LICENSE
-[img_license]: https://img.shields.io/github/license/torrente178/sfo-test.svg?maxAge=2592000&color=red&style=flat
+[img_license]: https://img.shields.io/github/license/torrente178/sfo-test.svg?maxAge=2592000&color=red&style=flat-square
