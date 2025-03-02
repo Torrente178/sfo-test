@@ -28,4 +28,4 @@ the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
 
 [app_license]: https://github.com/torrente178/sfo-test/blob/master/LICENSE
-[img_license]: https://img.shields.io/github/license/torrente178/sfo-test.svg?maxAge=2592000&color=red&style=flat-square
+[img_license]: https://img.shields.io/github/license/torrente178/sfo-test.svg?maxAge=2592000&color=d02020&style=flat-square
