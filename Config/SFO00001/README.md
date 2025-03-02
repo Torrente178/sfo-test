@@ -10,7 +10,7 @@ permalink: Config/SFO00001/
 > - Texto de pruebaa
 > - Texto de Prueba1
 
-{: .red }
+{: .green }
 > - Texto de prueba
 > - Texto de Prueba1
 
