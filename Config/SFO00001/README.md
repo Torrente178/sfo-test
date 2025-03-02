@@ -33,9 +33,9 @@ permalink: Config/SFO00001/
 
 ## 🛠️ Config Pack - SFO00001
 
-| ConfigName | Author | MainTitle | SubTitle | Version | ⬇️ JSON File |
+| ConfigName | Author | MainTitle | SubTitle | Version | JSON File |
 |------------|--------|-----------|----------|---------|:-------------:|
-| ⚙️ SFO Example | ⚙️ TheZodiacoX | ⚙️ ★SaveData MainTitle| ⚙️ ★SaveData SubTitle| ⚙️ 1.0.0 | [🛠️ prueba 1](00000001.zip){: .btn .btn-purple } | 
+| SFO Example | TheZodiacoX | ★SaveData MainTitle| ★SaveData SubTitle| 1.0.0 | [🛠️ SFO Example](00000001.zip){: .btn .btn-purple } | 
  
 
 
