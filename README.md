@@ -1,7 +1,7 @@
 # SFO Save Editor Database
 
 [![License][img_license]][app_license]
-![Test](https://img.shields.io/github/directory-file-count/torrente178/sfo-test/Config?label=Config%20List&type=dir)
+![Test](https://img.shields.io/github/directory-file-count/torrente178/sfo-test/Config?label=Config%20Pack%20List&type=dir)
 
 ## Introduction
 
