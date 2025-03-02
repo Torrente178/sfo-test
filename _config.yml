@@ -16,7 +16,7 @@ callouts:
     title: "🛠️ Importante"
     color: "purple"
   warning:
-    title: "Advertencia"
+    title: "🛠️ Advertencia"
     color: "yellow"
   caution:
     title: "🛠️ Precaución"
