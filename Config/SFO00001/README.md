@@ -10,7 +10,7 @@ permalink: Config/SFO00001/
 > - Texto de pruebaaaaaaa
 
 {: .white }
-> - Texto de prueba
+> - Texto de pruebaAA
 
 {: .blue }
 > - Texto de pruebaaaaaaa
