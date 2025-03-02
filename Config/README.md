@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 🛠️ SFO Configurations
+title: SFO Configurations
 permalink: Config/
 has_children: true
 has_toc: false
