@@ -24,7 +24,7 @@ callouts:
   tip:
     title: "🛠️ TIP"
     color: "green"
-  example:
+  notes:
     title: "📝 Notes"
     color: "grey-dk"
   white:
