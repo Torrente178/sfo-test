@@ -5,7 +5,7 @@ permalink: Config/
 has_children: true
 has_toc: false
 ---
-# SFO Configurations List
+# ⚙️ SFO Configurations List
 
 | Config Name | ID |
 |------|:---:|
