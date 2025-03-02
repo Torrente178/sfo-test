@@ -6,11 +6,11 @@ permalink: Config/SFO00001/
 ---
 # 🛠️ Example Pack
 
-{: .note-black }
+{: .notes }
 > - Texto de pruebaa
 > - Texto de Prueba1
 
-{: .caution }
+{: .red }
 > - Texto de prueba
 > - Texto de Prueba1
 
