@@ -6,5 +6,11 @@
             "name": "Example Pack",
             "description": "This is a Example Pack."
         }
+        {
+            "id": "SFO00002",
+            "author": "TheZodiacoX",
+            "name": "Prueba de fuego",
+            "description": "Esta es la prueba de fuego."
+        }
     ]
 }
